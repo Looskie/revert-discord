@@ -1,0 +1,32 @@
+html.newBrand {
+  /* Actually blurple */
+  --brand-experiment-100: #f7f7fe;
+  --brand-experiment-130: #f0f1fe;
+  --brand-experiment-160: #e7e9fd;
+  --brand-experiment-200: #dee0fc;
+  --brand-experiment-230: #d4d7fc;
+  --brand-experiment-260: #d1d7ed;
+  --brand-experiment-300: #bcc1fa;
+  --brand-experiment-330: #c1cae7;
+  --brand-experiment-360: #a3afdb;
+  --brand-experiment-400: #93a2d5;
+  --brand-experiment-430: #8495cf;
+  --brand-experiment-460: #7588c9;
+  --brand-experiment: #7289da;
+  --brand-experiment-500: #5b6eb0;
+  --brand-experiment-530: #51629c;
+  --brand-experiment-560: #475689;
+  --brand-experiment-600: #3d4975;
+  --brand-experiment-630: #333d62;
+  --brand-experiment-660: #28314e;
+  --brand-experiment-700: #1e243a;
+  --brand-experiment-730: #21265b;
+  --brand-experiment-760: #141827;
+  --brand-experiment-800: #1a1e49;
+  --brand-experiment-830: #141738;
+  --brand-experiment-860: #0d0f24;
+  --brand-experiment-900: #04050c;
+
+  /* Original/better font */
+  --font-display: Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
