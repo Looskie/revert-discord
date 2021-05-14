@@ -12,7 +12,7 @@ html.newBrand {
   --brand-experiment-400: #93a2d5;
   --brand-experiment-430: #8495cf;
   --brand-experiment-460: #7588c9;
-  --brand-experiment: #7289da;
+  --brand-experiment: #7289da !important;
   --brand-experiment-500: #5b6eb0;
   --brand-experiment-530: #51629c;
   --brand-experiment-560: #475689;
