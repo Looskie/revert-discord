@@ -30,3 +30,14 @@ html.newBrand {
   /* Original/better font */
   --font-display: Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+
+.homeIcon-FuNwkv {
+  background: url(https://www.pngkey.com/png/full/20-200938_white-discord-logo-png-png-free-discord-logo.png)
+    no-repeat center;
+  background-repeat: no-repeat;
+  background-size: 27px;
+}
+
+.homeIcon-FuNwkv path {
+  display: none;
+}
